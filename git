@@ -1,0 +1,29 @@
+[33mcommit c0ff66a5998e39f6117a602e4305e3bebf5a9f2f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: cokittew <xondolymp13@hotmail.com>
+Date:   Mon Oct 7 20:13:48 2019 -0300
+
+    criando repository e service para categoria
+
+[33mcommit baba1e26703ff3396f44a47834c8bef7bf98151e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: cokittew <xondolymp13@hotmail.com>
+Date:   Mon Oct 7 19:15:13 2019 -0300
+
+    Banco de Dados h2 e criação da base de dados
+
+[33mcommit 3427a8a0573ed57c6d4d0a5c7d164fcf50b4a07e[m
+Author: cokittew <xondolymp13@hotmail.com>
+Date:   Mon Oct 7 17:21:12 2019 -0300
+
+    Testando a primeira classe de dominio
+
+[33mcommit 43ab92c3856dcbb5a24b10db82c011f43fa0135a[m
+Author: cokittew <xondolymp13@hotmail.com>
+Date:   Mon Oct 7 16:34:15 2019 -0300
+
+    Rest Testado
+
+[33mcommit 186ea0e36ce6d670bf78a293f2d3f97648f7dc21[m
+Author: cokittew <xondolymp13@hotmail.com>
+Date:   Mon Oct 7 16:06:28 2019 -0300
+
+    projeto foi criado
